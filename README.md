@@ -1,7 +1,7 @@
 Hi there, I'm Fraser!
 
-- 🧑‍🔬 I'm currently studying Engineering Science at The University of Oxford, specialising in control, software engineering and biomechanics.
-- 👀 I’m interested in web development as well as some fun projects to build a portfolio.
+- I'm currently studying Engineering Science at The University of Oxford, computer vision, robotics and software engineering.
+- I’m interested in web development as well as some fun projects to build a portfolio.
 
 <!---
 fraser148/fraser148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
